@@ -1,3 +1,34 @@
+<!-- readme-refresh:start -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/readme-banner.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/readme-banner.png">
+    <img alt="Sentry SDK for Go fork banner" src="assets/readme-banner.png" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <img alt="Repository type: fork" src="https://img.shields.io/badge/Repository-Personal_Fork-8b5cf6?logo=github">
+  <a href="https://github.com/getsentry/sentry-go"><img alt="Open upstream" src="https://img.shields.io/badge/Upstream-open-111827?style=for-the-badge&logo=github"></a>
+</p>
+
+> [!IMPORTANT]
+> This is a personal public fork of [Sentry SDK for Go](https://github.com/getsentry/sentry-go). The documentation, release badges, support statements, and community links below are maintained by and refer to the upstream project unless a section explicitly says otherwise.
+
+<details>
+<summary><strong>🔀 Fork information</strong></summary>
+
+| | |
+|---|---|
+| **Fork owner** | [al1re3a](https://github.com/al1re3a) |
+| **Upstream** | [Sentry SDK for Go](https://github.com/getsentry/sentry-go) |
+| **Documentation** | Preserved from upstream below |
+
+</details>
+
+---
+<!-- readme-refresh:end -->
+
 <p align="center">
   <a href="https://sentry.io/?utm_source=github&utm_medium=logo" target="_blank">
     <picture>
